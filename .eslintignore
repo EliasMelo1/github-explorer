@@ -1,0 +1,4 @@
+# Ignora todas pastas JS
+*.js
+node_modules
+build
